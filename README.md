@@ -2,11 +2,12 @@
 
 Official repository for _Deep Monocular Hazard Detection for Small Body Landing_ (AAS 23-294) presented at the 2023 AAS/AIAA Space Flight Mechanics Meeting by Travis Driver, Kento Tomita, Koki Ho, and Panagiotis Tsiotras.
 
-<figure align="left">
-  <img src="ocams_tag.gif" height="300">
-  <img src="ocams_tag-bicnet-nko.gif" height="300">
-  <figcaption><span style="background-color:green;">Green</span>, <span style="background-color:yellow;">yellow</span>, <span style="background-color:blue;">blue</span>, and <span style="background-color:red;">red</span> labels represent true safe, true unsafe, false unsafe, and false safe, respectively.</figcaption>
-</figure>
+<p>
+  <img src="ocams_tag.gif" alt="test">
+  <img src="ocams_tag-bicnet-nko.gif" alt="test">
+  <p>*Green, yellow, blue, and red labels represent true safe, true unsafe, false unsafe, and false safe, respectively.</p>
+</p>
+
 
 If you utilize our models or data, please cite
 
