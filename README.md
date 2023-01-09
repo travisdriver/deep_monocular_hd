@@ -8,7 +8,6 @@ Official repository for _Deep Monocular Hazard Detection for Small Body Landing_
   <p>*Green, yellow, blue, and red labels represent true safe, true unsafe, false unsafe, and false safe, respectively.</p>
 </p>
 
-
 If you utilize our models or data, please cite
 
 ```
@@ -33,5 +32,3 @@ If you use our data products, please also cite
   year={2022}
 }
 ```
-
-## Getting Started
