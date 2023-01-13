@@ -21,14 +21,14 @@ If you utilize our models or data, please cite
 }
 ```
 
-If you use our data products, please also cite
+If you use our data products, please also cite [AstroVision](https://github.com/astrovision/):
 
 ```
 @article{driver2022astrovision,
   title={AstroVision: Towards Autonomous Feature Detection and Description for Missions to Small Bodies Using Deep Learning},
   author={Driver, Travis and Skinner, Katherine and Dor, Mehregan and Tsiotras, Panagiotis},
-  journal={preprint},
-  note={arXiv:2208.02053},
+  journal={Special Issue on AI for Space, Acta Astronautica},
+  doi={https://doi.org/10.1016/j.actaastro.2023.01.009},
   year={2022}
 }
 ```
